@@ -1,13 +1,12 @@
 # Owen Pierce (he/his) - @owendivesdeep
 
 ## Current Personal Projects 🔭
-My current focus is [Virtual Reef](https://github.com/aionthebeach/virtual-reef), an ocean conservation project using Python and Django in collaboration with [Reef Check](https://www.reefcheck.org/).
+My current focus is studying test automation best practices. I'm also learning Spanish!
 
 ## Studying 👨‍🔬
+* Test Automation
 * Python
-* Django
-* React
-* Japanese
+* Spanish
 
 <!--
 **opierce/opierce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
