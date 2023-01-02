@@ -1,4 +1,4 @@
-# Owen Pierce (he/his) - @owendivesdeep
+# Owen Pierce (he/his)
 
 ## Current Personal Projects 🔭
 My current focus is studying test automation best practices. I'm also learning Spanish!
